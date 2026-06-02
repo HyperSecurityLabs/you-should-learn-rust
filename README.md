@@ -9,7 +9,7 @@
 ![PRs](https://img.shields.io/badge/PRs-Members_Only-9B59B6?style=for-the-badge)
 ![Website](https://img.shields.io/badge/HyperSecurity-v4.2-00A86B?style=for-the-badge&logo=hackaday&logoColor=white)
 
-# 💖 RustLearning — Your Girlfriend's Rust Tutorial
+# 💖 RustLearning — Your Girl+friend's Rust Tutorial
 
 **From zero to offensive — 35 lessons of Rust, written with love and teeth.**
 
